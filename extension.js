@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "WorldBot",
+      botName: "WoP, A Botzinha :nail_care:",
       language: "portuguese",
       chatLink: "https://rawgit.com/carlosney/basicBot/master/lang/pt-BR.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
