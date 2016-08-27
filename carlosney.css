@@ -1,0 +1,30 @@
+#room .app-right {
+    background: rgba(0, 0, 0, 0.30);
+}
+#user-rollover {
+    background: rgba(0,0,0,.4);
+}
+#user-rollover .info {
+    background: rgba(0,0,0,.1);
+}
+#footer {
+    background: linear-gradient(to bottom,rgba(0, 0, 0, 0.25) 0,rgba(0, 0, 0, 0.75) 100%);
+}
+.app-header {
+    background: rgba(28, 31, 37, 0.59);
+}
+#rs-skip-button {
+    position: absolute;
+    right: 55px;
+    width: 54px;
+    height: 54px;
+    box-shadow: rgb(10, 10, 10) 0px -2px 0px -1px inset;
+    cursor: pointer;
+    background: rgba(28, 31, 37, 0.59);
+}
+#history-button {
+    right: 0px;
+    width: 54px;
+    box-shadow: rgb(10, 10, 10) 0px -2px 0px -1px inset;
+    background: rgba(28, 31, 37, 0.59);
+}
