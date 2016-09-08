@@ -2,7 +2,7 @@
     "room": "piranhaney",
     "author": "piranha",
     "icon": null,
-    "css": "https://rawgit.com/carlosney/custom/blob/master/piranha.css",
+    "css": "https://rawgit.com/carlosney/custom/blob/master/piranha.json",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
