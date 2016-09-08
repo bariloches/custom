@@ -27,13 +27,13 @@
         "user": null
     },
     "images": {
-        "background": "http://i.imgur.com/AI3B5pb.jpg",
+        "background": null,
         "playback":  null,
         "admin": null,
         "ambassador": null,
-        "host": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "cohost": "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
-        "manager": "https://dl.dropboxusercontent.com/u/88492635/tagpro/icones%20grades/subscriber.png",
+        "host": null,
+        "cohost": null,
+        "manager": null,
         "bouncer": null,
         "rdj": null,
         "subscriber": null,
