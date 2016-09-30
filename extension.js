@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "WoP, A Botzinha :nail_care:",
+      botName: "Flop, a Bot! :nail_care: :sparkles:",
       language: "portuguese",
       chatLink: "https://rawgit.com/carlosney/basicBot/master/lang/pt-BR.json",
       scriptLink: "https://rawgit.com/bscBot/source/master/basicBot.js",
@@ -90,7 +90,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: true,
       motdInterval: 10,
-      motd: "Entrem no nosso grupo do FB http://goo.gl/8iFw1s , e curtam a nossa página http://goo.gl/gxOOmp :kiss: :sparkles:",
+      motd: "Entrem no nosso grupo do Facebook e curtam a nossa página http://goo.gl/gxOOmp :kiss: :sparkles:",
       filterChat: true,
       etaRestriction: false,
       welcome: true,
